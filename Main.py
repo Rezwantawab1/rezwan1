@@ -9,6 +9,8 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense, Dropout
 from textblob import TextBlob
 import telepot
+from keep_alive import keep_alive
+keep_alive()
 
 # تنظیمات لاگ‌گیری
 logging.basicConfig(level=logging.INFO)
