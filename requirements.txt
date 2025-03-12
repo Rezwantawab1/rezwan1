@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+tensorflow
+sklearn
+textblob
+telepot
